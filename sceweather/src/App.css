@@ -1,0 +1,26 @@
+/* random styling */
+.box {
+  width: 20rem;
+}
+.container {
+  display:flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.center {
+  display:flex;
+  justify-content: center;
+}
+div {
+  gap: 0.5rem;
+}
+html {
+  background-color: rgb(144, 151, 230);
+}
+.button {
+  display: flex;
+  justify-content: center;
+}
+input[type="text"] {
+  width: 20rem;
+}
